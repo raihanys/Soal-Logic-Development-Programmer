@@ -1,16 +1,3 @@
-/* 
-Soal
-
-Silakan tulis kode yang mengandung setidaknya satu fungsi/metode utama
-yang disebut pattern_count yang menerima dua string atau dua array karakter
-dengan panjang antara 0 dan 100 karakter. Pertama parameter adalah teks
-dan parameter kedua adalah pattern. Fungsi ini akan mengembalikan angka
-bagaimana banyak pola ada di dalam teks. Asumsikan parameter input selalu
-tidak nol. Solusi Anda tidak boleh menggunakan fungsi pembantu yang telah
-ditentukan sebelumnya seperti substr_count di PHP atau panjang
-kecocokan regex dalam JavaScript.
-*/
-
 /* Pada Node.js saya perlu melakukan Pemanggilan modul 'readline' 
 untuk menunggu respon Input pengguna di terminal */
 const readline = require("readline");

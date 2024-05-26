@@ -1,11 +1,3 @@
-/* 
-Soal
-
-Buat fungsi yang menghitung banyak nya huruf yang user masukan dalam 1x
-inputan dan urutkan hasil akhir sesuai abjad, Perhatikan huruf kapital, jika
-terdapat abjad yang sama namun dalam kapital maka pisah huruf tersebut
-*/
-
 /* Pada Node.js saya perlu melakukan Pemanggilan modul 'readline' 
 untuk menunggu respon Input pengguna di terminal */
 const readline = require("readline");

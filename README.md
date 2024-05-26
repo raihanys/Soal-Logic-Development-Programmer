@@ -1,17 +1,19 @@
+# Deskripsi Soal dan Jawaban
+
 ## Soal A
-<div align="justify">Urutkan array berikut [12,9,30,”A”,”M”,99,82,”J”,”N”,”B”] dengan urutan abjad di depan dan angka di belakang, contoh [“A”, “B”,”J”, “M”, “N”, 9, 12, 30, 82, 99]</div>
-<br/>
-Jawaban Soal A<br/>
-<p><b>sortArray.js<b/><p/>
-  
+Urutkan array berikut `[12, 9, 30, "A", "M", 99, 82, "J", "N", "B"]` dengan urutan abjad di depan dan angka di belakang, contoh: `["A", "B", "J", "M", "N", 9, 12, 30, 82, 99]`.
+
+### Jawaban Soal A
+Kode solusi untuk soal ini dapat ditemukan dalam berkas `sortArray.js`.
+
 ## Soal B
-<div align="justify">Silakan tulis kode yang mengandung setidaknya satu fungsi/metode utama yang disebut pattern_count yang menerima dua string atau dua array karakter dengan panjang antara 0 dan 100 karakter. Pertama parameter adalah teks dan parameter kedua adalah pattern. Fungsi ini akan mengembalikan angka bagaimana banyak pola ada di dalam teks. Asumsikan parameter input selalu tidak nol. Solusi Anda tidak boleh menggunakan fungsi pembantu yang telah ditentukan sebelumnya seperti substr_count di PHP atau panjang kecocokan regex dalam JavaScript</div>
-<br/>
-Jawaban Soal B<br/>
-<p><b>PatternCount.js<b/><p/>
+Buatlah kode yang mengandung setidaknya satu fungsi/metode utama yang disebut `pattern_count` yang menerima dua string atau dua array karakter dengan panjang antara 0 dan 100 karakter. Parameter pertama adalah teks dan parameter kedua adalah pola. Fungsi ini akan mengembalikan jumlah pola yang ada di dalam teks. Asumsikan parameter input selalu tidak nol. Solusi Anda tidak boleh menggunakan fungsi bawaan seperti `substr_count` di PHP atau metode regex di JavaScript.
+
+### Jawaban Soal B
+Kode solusi untuk soal ini dapat ditemukan dalam berkas `PatternCount.js`.
 
 ## Soal C
-<div align="justify">Buat fungsi yang menghitung banyak nya huruf yang user masukan dalam 1x inputan dan urutkan hasil akhir sesuai abjad, Perhatikan huruf kapital, jika terdapat abjad yang sama namun dalam kapital maka pisah huruf tersebut</div>
-<br/>
-Jawaban Soal C<br/>
-<p><b>CountLetters.js<b/><p/>
+Buatlah fungsi yang menghitung jumlah huruf yang dimasukkan pengguna dalam satu kali inputan dan urutkan hasil akhirnya sesuai abjad. Perhatikan huruf kapital; jika terdapat abjad yang sama namun dalam kapital, maka pisahkan huruf tersebut.
+
+### Jawaban Soal C
+Kode solusi untuk soal ini dapat ditemukan dalam berkas `CountLetters.js`.
